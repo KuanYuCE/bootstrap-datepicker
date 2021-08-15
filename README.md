@@ -8,7 +8,7 @@
 
 Versions are incremented according to [semver](https://semver.org/).
 
-## CDN
+## CDN_test
 
 You can use the [CloudFlare](https://www.cloudflare.com) powered [cdnjs.com](https://cdnjs.com) on your website.
 
